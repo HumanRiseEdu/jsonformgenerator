@@ -1,0 +1,55 @@
+{
+    "form":[
+         {"datas" : 
+            [{
+                "type":"text"
+                ,"id":"idDate1"
+                ,"name":"nameDate1"    
+                ,"jscontrole":""
+                ,"index":1
+                ,"jscode_onload":""
+                ,"jscode":""
+                ,"readonly":true
+                ,"required":true
+                ,"attributs":[
+                    {
+                        "data-type":"..."
+                    } 
+                    ]
+                ,"events":[
+                    {
+                        "onclick":""
+                    }
+                ] 
+            }]
+        }
+        
+
+    ],
+    "view":[
+            {
+                "boxes":[
+                    {
+                        "box1":{
+                            "title":""
+                            ,"template":""
+                            ,"orientation":""
+                            ,"position":""
+                            ,"order":1
+                            ,"collapse":true
+                            ,"init_collapse":"hidden"
+                            ,"data":[
+                                {
+                                    "id":"idData1"    
+                                },{
+                                    "id":"idData2"   
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+
+    ]
+
+}

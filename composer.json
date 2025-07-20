@@ -1,0 +1,21 @@
+{
+    "name": "humanriseedu/jfg",
+    "description": "A system that dynamically builds interactive forms based on a predefined JSON schema. It allows customization through templates, supporting layout, field types, validation rules, and logic flow. Ideal for academic systems, surveys, and administrative workflows.",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "11.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Humanriseedu\\Jfg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "limostr",
+            "email": "oussama.limam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
